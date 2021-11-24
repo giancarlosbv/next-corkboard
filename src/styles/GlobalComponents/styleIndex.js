@@ -18,4 +18,6 @@ export const Post = styled.div`
     box-shadow: 5px 5px 7px rgba(33,33,33,.7);
     padding-left: 20px;
     color:#03040c;
+    height:10vh;
+    /* overflow: auto; */
     `
